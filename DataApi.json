@@ -1,0 +1,28 @@
+[
+   {
+      "title": "White Chicken",
+      "img": "data",
+      "method": "data",
+      "ingredients": [
+         {
+            "Salt": "Salt"
+         },
+         {
+            "Amount": "1 teaspoon"
+         }
+      ]
+   },
+   {
+      "title": "Biryani",
+      "img": "data",
+      "method": "data",
+      "ingredients": [
+         {
+            "Salt": "Salt"
+         },
+         {
+            "Amount": "1 teaspoon"
+         }
+      ]
+   }
+]
